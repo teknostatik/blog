@@ -1,0 +1,18 @@
+---
+title: "A few (historical) thoughts about shoes"
+date: "2014-01-02"
+---
+
+_This is something I wrote ages ago for a couple of people I worked with at the time, but I was reminded about it  couple of times over the last few weeks during conversations about small talk and acceptable conversation topics._
+
+This is not really about shoes. This is about things that other people find fascinating but that leave me somewhat cold. It is also about things that rock my world that other people just don’t get.
+
+A fair few people I know are into shoes. They have hundreds of pairs of shoes, and take great delight in making sure they are wearing a pair of shoes that match their outfit. This at least I can relate to, in that I at least make an effort to make sure that the shoes I’m wearing match the weather. But fundamentally, I see shoes as something I wear to put a layer of insulation between my feet and the world, and I only really consider buying a new pair if the pair I’m wearing develop a hole (and thus are unsuitable for rainy days).
+
+I have a feeling that when other people talk about shoes, I quickly develop a glazed expression which suggests I might not be listening too closely. Now, don’t get me wrong, I love learning about new things. I’m always on the lookout for new snippets of information and new subjects to study. But there are some things that I can’t relate to enough to be interested in, and shoes are one of those things.
+
+Of course, there are lots of things I’m very interested in, like music and cinema. I remember a few times recently where I’ve mentioned a film I’ve recently seen, or a band I’m really into, and have been met with a look of incomprehension followed by a swift tangent into a more socially acceptable topic of conversation. This to me is not a problem, because I’m well aware that most of the things that rock my world are not to everyone’s taste. But at the same time I spend a great deal of time around people who seem to be able to effortlessly find mutual topics of conversation, and I sometimes wonder if there are whole aspects of reality that I’ve discounted as being irrelevant and which in fact could become fundamentally important in my world. Like romantic comedies. Or daytime television. Or shoes.
+
+But then I think about all the things I am into, and how I don’t actually have time to do most of them any longer. With the advent of laptops and portable music players I can indulge in music and movies from almost anywhere, and we are now in an age where consuming large amounts of both can be done both legally and inexpensively. I don’t think I’ve got room for anything else, seeing as I don’t have enough time for proper computing, or reading, or football, or socialising, or doing little more than bounce between work, sleep and recreational media. And whilst I don't think I have room for anything else, I think the world in general has room for all the above and more, and I think my life has been enriched by having so many people in it who don't see the world in the same way I do.
+
+So, you know the next time I start talking about obscure musicians you’ve never heard of, and try and play you abstract soundscapes that remind you of a kitten being tortured? And the next time I try and explain why films in a language I don’t understand can often do a better job of connection on an emotional level? And the next time I tell you that songs don’t need words and words are only relevant if they mean something? You know the way your mind drifts and itches to get back onto the sort of solid ground where you feel you have something to contribute? That’s how I feel when you talk about shoes.

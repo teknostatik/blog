@@ -1,0 +1,22 @@
+---
+title: "Beyond Good and Evil : Morality and Duality in Once Upon a Time"
+date: "2015-05-26"
+categories: 
+  - "tv"
+tags: 
+  - "once-upon-a-time"
+---
+
+I've recently been watching the US TV show Once Upon a Time. I saw the first two seasons a couple of years ago, but then decided to wait until it was all available on Netflix so I could binge-watch all four seasons. For those who are not aware, Once Upon a Time takes traditional fairytales and gives them a modern twist, and also draws in more modern fairytales from recent movies such as Frozen and The Little Mermaid. One of the main themes that runs through the series is the battle between good and evil, and specifically what makes a hero and what makes a villain. As someone who is more interested in the shades of grey that all characters (and indeed people) possess, it maybe doesn't seem like this show is something that would appeal to me, but I really do think that no character in Once Upon a Time is wholly good or wholly evil. In fact, it is the way the main characters move between the two that makes it so interesting to me.
+
+This started me thinking about what defines our morality, and how people start on the path that ends with them being fairly close to one end of the spectrum. Do all people start out good (or at least neutral) and change according to things they do and things they see others do, or are there people who are literally born evil? I'm not sure I'm in a position to answer that question for the world in general, but I will try and answer it in the context of Once Upon a Time.
+
+Season One of Once Upon a Time has several main protagonists. Emma Swann, her biological son Henry, and her parents Mary-Margaret and David are the heroes of the show. Mary-Margaret's stepmother Regina (also Henry's adopted mother) and the mysterious Mr Gold are the villains. At the start of the series they are all mostly adhering to type, although the season does chart Emma's change from being a quite self-centred "normal person" to being the "Saviour" of the other characters (and the closest to a genuine hero by the end of the first season).
+
+But if you scratch beneath the surface it is not quite that simple, and as the motivations and histories of all the main characters (and a plethora of minor characters) are explored, then it soon becomes evident that even the most evil characters started off with good in their hearts, and that every hero had to do some morally dubious things "for the greater good". Additionally, the series takes fairy stories we know very well (Snow White, Sleeping Beauty, Pinocchio, Peter Pan) and twists them a little, so that the audience make certain assumptions about the morality of the characters and then have those assumptions turned inside out. Compare J.M. Barrie's Peter Pan and Captain Hook with their Once Upon a Time counterparts and you will see that things are not always what they appear.
+
+Telling these complex moral stories only works due to the non-linear aspect of the storytelling. Once Upon a Time was conceived by the team that created Lost, and uses the same method of flashing back to add colour and context to each character's current predicament. And it is only through juxtaposing the scenes set in the past and in the present that a morally accurate picture of each character is painted. And even when you reach the point where you think you know how a character would act in any situation, the story throws up a scenario where villains find something or someone to die for, whilst heroes find themselves needing to perform acts that they would condemn others for even thinking about.
+
+I'm at the end of season 4 now, and I've not come across one wholly good or evil character, but I have noticed a definite trend in every character who has ended up being quite dark at some point. In no case were they born that way, but instead all went through a time where they were let down or otherwise disappointed by someone they looked up to as a figure of authority or moral guidance. And if there is a moral message at all it is that no-one is born good or evil, and that everyone has the potential for both. And while nature may play a small part, moral descent and decline seems much more about nurture, cicumstance, choice and consequence.
+
+I suspect Once Upon a Time has a few more twists to come, but I'm glad that it seems more interested in genuine character development than in telling a simple story of the battle between good and evil. I think many other TV shows could learn a lot from it.

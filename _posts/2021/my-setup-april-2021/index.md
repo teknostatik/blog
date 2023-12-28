@@ -1,0 +1,54 @@
+---
+title: "My Setup - April 2021"
+date: "2021-04-19"
+categories: 
+  - "computers"
+  - "dropbox"
+  - "gnome"
+  - "i3"
+  - "linux"
+---
+
+# My Setup
+
+I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This](https://usesthis.com/) a few years ago. It used to live as a page in my blog, but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time. Every couple of years I post a snapshot as a blog post to track the passage of time. This is one of those snapshots.
+
+## The hardware I use
+
+**Home** - I've just bought a new desktop computer that _mostly_ consists of components that are fairly new (this is a first for me). Everything feels snappy and fast, and I love it. I also have three monitors (now identical in both size and resolution which pleases me), a [mechanical keyboard](https://www.amazon.co.uk/EPOMAKER-Swappable-Mechanical-Keyboard-Waterproof-Black/dp/B088FKJBRG), a [hand-me-down gaming mouse](https://www.amazon.co.uk/Razer-Wraith-Laser-Sensor-Mouse/dp/B009A3KWVU), and all the docks, cables and switches to connect everything together. My personal laptops are both Thinkpads - an [x260](https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/ThinkPad-X260/p/22TP2TX2600) for travel and couch-surfing, and an [x230](https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/x230/) which largely gets used for digitising vinyl and testing software I plan on using on one of my main computers. I also have a variety of Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes.
+
+**Work from home** - As home, but with a [Thinkpad L13](https://www.lenovo.com/gb/en/laptops/thinkpad/l-series/ThinkPad-L13-Gen-2/p/22TPL13L3N2) doing the driving. All it requires is a couple of cable switches and toggling the input on two of my monitors. I'd love to do this without crawling under my desk, but that's a problem for another day.
+
+**Work** - I've not been in my office for a while, but I think I still have something largely similar to my home setup, but with one less screen. I think I'll be taking my [very quiet solar-powered keyboard](http://support.logitech.com/product/wireless-solar-keyboard-k760-for-mac) in as I'll be sharing an office soon and mechanical keyboards are not conducive to good working relationships.
+
+**Travel** - I don't travel right now, but which I did it would be some combination of a Thinkpad, [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/), Kindle and phone. I also carry bootable USB versions of [Ubuntu](https://www.ubuntu.com) and [Tails](https://tails.boum.org/) everywhere I go (even places I don't take a computer). Increasingly my travel hardware also includes a bike and related tools.
+
+## The software I use
+
+At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom, but apart from those I tend to use largely the same suite of applications as I do for everything else.
+
+At home (and whilst travelling) It’s mostly [Ubuntu](https://www.ubuntu.com) with a side order of [LibreElec](https://libreelec.tv/) and [Raspbian](http://www.raspbian.org/) for my Raspberry Pis. I've been using the [i3 window manager](https://i3wm.org/) for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well. The script I use for installing my computers is [available on Github](https://github.com/teknostatik/deploy_ubuntu) and is regularly updated so it generally represents the software I am currently using.
+
+Firefox has always been my main browser, and it surprises me that more people don't use it. I have a container running with various versions of all the main browsers so that I can test things, but otherwise it's Firefox all the way.
+
+Other software I use that I feel is somewhat noteworthy includes:
+
+[Wordpress](https://wordpress.org/) - All my blogs run on WordPress. I currently maintain a WordPress multisite installation and several stand alone sites.
+
+[Atom](https://atom.io/) - A text editor that handles Markdown well, integrates nicely with GitHub, and can preview and export to PDF. I also use [Pandoc](http://pandoc.org/) to convert to PDF, HTML, and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else), and have also started experimenting with using Pandoc to generate slides and ebooks.
+
+[Trello](https://trello.com) - I use this for my to do list, and it's a good way to visualise the planning and execution of any task based work. It also reminds me when I have forgotten to do something.
+
+[Dropbox](https://www.dropbox.com/) - Cloud storage and syncing software to ensure I can access everything everywhere.
+
+[IFTTT](https://ifttt.com/) and [Buffer](https://buffer.com) - To automate as much as possible. Between them they handle a lot of the seemingly clever things in my digital life, and explain why I seem to be able to post to social media sites at times when I appear to be elsewhere.
+
+[Virtualbox](https://www.virtualbox.org/) and [Multipass](https://multipass.run/) - Because no-one needs as many physical computers as I had before virtualisation was a thing. Multipass is what I use the most at the moment, and it's really transformed the way I use containers for anything volatile or requiring increased privacy or security. There are generally at least a couple of containers running on my computer which I can switch to if I need to use a different desktop environment or browser to test something.
+
+[Spotify](https://open.spotify.com/) for discovering new music, and [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) for playing the music I already own. I have 162 days of digital music on my computer, and that's before we get to all the records and CDs I've not got round to digitising yet.
+
+[Github](https://github.com/teknostatik) for collecting together code that I've written and making the way my computers are set up available to other people in case it's useful. I've also increasingly started using private repositories to version control writing and the notes I take at work.
+
+## My dream setup
+
+Maybe I'm already living the dream, but the one thing I'd really like is to go back to doing everything on one computer. I also long for reasonably priced mechanical keyboards that are designed for people who just like to type, rather than gamers. Give me RGB and I will activate it, but sometimes I think something a bit more stylish might be more in keeping with the rest of my setup.
