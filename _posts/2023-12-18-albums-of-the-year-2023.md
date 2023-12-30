@@ -38,7 +38,7 @@ In all cases the links below are to somewhere you can listen to and/or buy the r
 
 - Lana Del Rey - [_Did you know that there's a tunnel under Ocean Blvd_](https://www.theguardian.com/music/2023/dec/15/the-50-best-albums-of-2023-no-6-lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd)
 
-- Lankum - [_False lankum_](https://lankum.bandcamp.com/album/false-lankum)
+- Lankum - [_False Lankum_](https://lankum.bandcamp.com/album/false-lankum)
 
 - Lanterns on the Lake - [_Versions of Us_](https://lanternsonthelake.bandcamp.com/album/versions-of-us)
 
