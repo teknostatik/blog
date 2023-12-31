@@ -20,6 +20,8 @@ In all cases the links below are to somewhere you can listen to and/or buy the r
 
 - Baxter Dury - [_I Thought I was Better Than You_](https://baxterdury.bandcamp.com/album/i-thought-i-was-better-than-you)
 
+* Belle & Sebastian - [_Late Developers_](https://belleandsebastian.bandcamp.com/album/late-developers)
+
 - Gum Takes Tooth - [_Recovery Position_](https://gumtakestooth.bandcamp.com/album/recovery-position)
 
 - Harp - [_Albion_](https://harpband.bandcamp.com/album/albion)
@@ -59,8 +61,6 @@ In all cases the links below are to somewhere you can listen to and/or buy the r
 - The Unit AMA - [_Toward_](https://theunitama.bandcamp.com/album/toward)
 
 - Vanishing - [_Shelter of the Opaque_](https://thequietus.com/articles/33357-vanishing-interview)
-
-- YOSSARI BABY - [_Inferiority Complex_](https://yossaribaby.bandcamp.com/album/inferiority-complex)
 
 - Young James Long - [_Orogeny_](https://youngjameslongband.bandcamp.com/album/orogeny-2)
 
@@ -193,3 +193,6 @@ Other things I've listened to this year that I enjoyed.
 - The Waeve - [_The Waeve_](https://thewaeve.bandcamp.com/album/the-waeve)
 
 - The Wedding Present - [_24 Songs_](https://hhbtm.bandcamp.com/album/24-songs)
+
+- YOSSARI BABY - [_Inferiority Complex_](https://yossaribaby.bandcamp.com/album/inferiority-complex)
+
