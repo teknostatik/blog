@@ -35,13 +35,15 @@ Apart from the table and chair, I think I have had most of this stuff over a dec
 
 ## Things I carry with me
 
-- Personal and work laptops (both ThinkPads)
+- Personal and work laptops (both ThinkPads). For longer trips I may bring my very small desktop PC.
 
 - [Kensington Orbit trackball](https://www.amazon.co.uk/dp/B002Q42S4E/?coliid=IIXFNAC607QZ9&colid=12FT8F83XD1C0&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 
 - [Ferris Sweep mechanical keyboard in a travel case](https://github.com/teknostatik/keyboards/tree/main/ferris_sweep)
 
 - [Portable USB-C monitor](https://www.amazon.co.uk/dp/B091KBNVHK?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+- [Mobile internet](https://www.amazon.co.uk/gp/product/B08CZYM51X), although if we are in one place for a while we remove the SIM card and put it in a [more powerful router](https://www.amazon.co.uk/gp/product/B08VJMWTCM/). 
 
 - [Trust webcam](https://www.amazon.co.uk/gp/product/B08B73KHKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
