@@ -48,4 +48,6 @@ After over 3 years of _mostly_ remote working I very interested in seeing how 
 
 - [https://people.zsa.io/beth-adele-long/](https://people.zsa.io/beth-adele-long/)
 
+- [https://blog.dustinkirkland.com/](https://blog.dustinkirkland.com/)
+
 Hopefully looking at these again will inspire me to consider if there are any changes I need to make to how _I_ work.
