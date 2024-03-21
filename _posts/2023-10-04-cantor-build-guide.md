@@ -12,19 +12,12 @@ The Cantor is a 42-key split mechanical keyboard with an aggressive stagger. I h
 This is what we need to build a Cantor:
 
 - [PCB](https://github.com/diepala/cantor/releases/tag/rev1.0) - I order these from [JLCPCB](https://jlcpcb.com/)
-
 - Two STM32F401CC blackpill microcontrollers and sockets - can be picked up really cheaply from Aliexpress
-
 - 42 choc v1 switches
-
 - 42 choc-compatible 1U keycaps
-
 - 2 TRRS jacks (PJ-320A)
-
 - TRRS cable
-
 - USB-C cable
-
 - 10-12 rubber feet
 
 All the example code in this guide will be assuming that the [Vial firmware](https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/ferris/sweep) will be used. It requires having a working installation of the [`vial-qmk`](https://github.com/vial-kb/vial-qmk) github repository.
@@ -57,12 +50,9 @@ If QMK encounters errors it will let you know. Fix any errors before proceeding 
 These steps will get us a PCB that we can test:
 
 1. Solder the sockets to the PCB
-
-3. Solder the TRRS jacks to the PCB
-
-5. Socket the controllers (for this build both controllers will be face down)
-
-7. Connect the two halves with the TRRS cable
+2. Solder the TRRS jacks to the PCB
+3. Socket the controllers (for this build both controllers will be face down)
+4. Connect the two halves with the TRRS cable
 
 ## Testing
 
