@@ -1,9 +1,10 @@
 ---
-title: "Mechanical Keyboards"
-date: "2021-06-19"
+title: "Journal Fragments"
+date: "2024-03-27"
 categories: 
   - "computers"
-  - "mechanical-keyboards"
+  - "music"
+  - "books"
 ---
 _Excerpts from my journal over the last few days that fit the themes of this blog._
 
