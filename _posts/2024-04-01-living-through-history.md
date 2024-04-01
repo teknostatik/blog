@@ -1,5 +1,5 @@
 ---
-title: "Living Through History - Thoughts on the XZ Vulnerability"
+title: "Living through history - thoughts on the XZ vulnerability"
 date: "2024-04-01"
 categories: 
   - "computers"
