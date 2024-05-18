@@ -1,4 +1,10 @@
-# Sustainable Commuting: Redefining Workspaces and Travel Patterns
+---
+title: "Sustainable Commuting: Redefining Workspaces and Travel Patterns"
+date: "2024-05-18"
+categories: 
+  - "sustainability"
+  - "travel"
+---
 
 In the era of remote work and heightened environmental awareness, the conversation around sustainable commuting has never been more pertinent. As organisations navigate the balance between in-person collaboration and remote work, the need to promote eco-friendly commuting options while optimising work environments becomes increasingly crucial. Recent discussions have centred around redefining working spaces to foster meaningful collaboration while encouraging sustainable travel practices.
 
