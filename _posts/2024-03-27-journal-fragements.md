@@ -31,8 +31,7 @@ Looking at the 14" laptops, the E14 and L14 are both very customisable, and meet
 
 I finished [_The Internet Con_](https://craphound.com/internetcon/) by Cory Doctorow last night. It's a really important book that anyone who uses the internet should read. Today I'll start [_Dead Centre_](https://reignsofwessex.bandcamp.com/album/dead-centre) by Tim Farthing, which is the only other book I bought with me. I have my Kindle though, with a huge backlog of fiction, so it's not like I won't have things to read.
 
-![Some books](blog/images/books.jpg)
-
+![Some books](https://teknostatik.github.io/blog/images/books.jpg)
 ## Music
 
 I am listening to [the new Jiin record](https://jlin.bandcamp.com/album/akoma), although once I start the book I will switch to [_Dead Centre_](https://reignsofwessex.bandcamp.com/album/dead-centre) by Reigns. I am also feeding Spotify with music for the family playlist. I only listen to Spotify whilst walking the dog, but it's good to hear a few new favourites making their way into what we listen to in the car.
