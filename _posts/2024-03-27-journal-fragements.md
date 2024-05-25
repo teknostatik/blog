@@ -31,7 +31,7 @@ Looking at the 14" laptops, the E14 and L14 are both very customisable, and meet
 
 I finished [_The Internet Con_](https://craphound.com/internetcon/) by Cory Doctorow last night. It's a really important book that anyone who uses the internet should read. Today I'll start [_Dead Centre_](https://reignsofwessex.bandcamp.com/album/dead-centre) by Tim Farthing, which is the only other book I bought with me. I have my Kindle though, with a huge backlog of fiction, so it's not like I won't have things to read.
 
-![Some books](/images/books.jpg){:class="img-responsive"}
+![Some books](blog/images/books.jpg)
 
 ## Music
 
