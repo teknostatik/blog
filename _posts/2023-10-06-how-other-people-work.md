@@ -32,5 +32,6 @@ After over 3 years of _mostly_ remote working I very interested in seeing how 
 * [https://www.workspaces.xyz/p/396-matt-webb](https://www.workspaces.xyz/p/396-matt-webb)
 * [https://www.workspaces.xyz/p/241-pirijan-ketheswaran](https://www.workspaces.xyz/p/241-pirijan-ketheswaran)
 * [https://www.workspaces.xyz/p/375-matthew-encina](https://www.workspaces.xyz/p/375-matthew-encina)
+* [https://www.workspaces.xyz/p/436-isaac-french](https://www.workspaces.xyz/p/436-isaac-french)
 
 Hopefully looking at these again will inspire me to consider if there are any changes I need to make to how _I_ work.
