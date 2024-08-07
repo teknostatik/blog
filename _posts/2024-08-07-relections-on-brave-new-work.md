@@ -5,8 +5,6 @@ categories:
   - "work"
   - "books"
 ---
-_Summary text that will be displayed above the line. If not used then the first paragraph will be above the line._
-
 Reflecting on _Brave New Work_ by Aaron Dignan (a book I have been reading and thinking about a lot recently), I think the concept of _organisational debt_ is key. This would be anything where the way the work is being done slows down delivery or adds unnecessary layers of bureaucracy. In my organisation we have loads of this, and I wonder if we would do better at getting rid of it if we referred to it as debt.
 
 I also found the list of aspects to consider when designing an organisational operating system matched quite closely to things I am already thinking of. These are listed on page 54:
@@ -30,16 +28,12 @@ In the retention example above, the problem statement may actually draw out the 
 
 There are also two key concepts that come up throughout the book:
 
-### People Positive
-
 _People Positive_ is a mindset that views people as inherently capable, trustworthy, and motivated. It challenges the traditional, often negative assumptions about human behaviour in the workplace, such as the belief that employees need constant oversight, strict rules, and external incentives to perform well. Instead, People Positive organisations believe that:
 
 - _Inherent Potential_: People have vast potential and, when given the right conditions, can achieve remarkable things.
 - _Trust and Autonomy_: Employees thrive when they are trusted and given autonomy to make decisions.
 - _Intrinsic Motivation_: People are motivated by more than just money; they seek purpose, mastery, and a sense of belonging.
 - _Whole Person_: Recognising that employees are whole people with lives outside of work, and that respecting this leads to better engagement and productivity.
-
-### Complexity Conscious
 
 _Complexity Conscious_ refers to the understanding and acceptance that modern organisations operate in complex and dynamic environments. This mindset acknowledges that:
 
