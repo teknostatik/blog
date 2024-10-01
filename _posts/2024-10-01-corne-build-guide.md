@@ -18,7 +18,7 @@ The Corne I started with is the RTG model, ordered from [Mechboards](https://mec
 * 42 switches (Choc v1 or v2, or MX)
 * 40 1U keycaps and 2 1.5U keycaps to match switches chosen
 * Cable to match controllers chosen (almost certainly a USB-C cable)
-* A case, if you don't want to use the one included in the kit. Currently I'm using [this case](https://www.etsy.com/uk/listing/1179555093/high-profile-corne-3dp-case) which make it look a lot better, as well as being significantly more stable on my desk. I've also now screwed a metal plate on to the bottom to give even more stability.
+* A case, if you don't want to use the one included in the kit. Currently I'm using [this case](https://www.etsy.com/uk/listing/1179555093/high-profile-corne-3dp-case) which makes it look a lot better, as well as being significantly more stable on my desk. I've also now screwed a metal plate on to the bottom to give even more stability.
 
 I've also built a few of these using PCBs I've ordered in bulk. This allows the use of third party cases without generating waste, but does require buying at least some TRRS jacks (PJ-320A), and a cable to connect them. 
 
@@ -26,10 +26,10 @@ I've also built a few of these using PCBs I've ordered in bulk. This allows the 
 
 These are some good build guides that I have either used myself or found afterwards.
 
-* https://devpew.com/blog/corne-eng/
-* https://www.boardsource.xyz/docs/build_guides-corne_crkbd
-* https://github.com/foostan/crkbd/blob/main/docs/corne-light/v2/buildguide_low_edition_en.md
-* https://thomasbaart.nl/2018/11/26/corne-keyboard-helidox-build-log/
+* <https://devpew.com/blog/corne-eng/>
+* <https://www.boardsource.xyz/docs/build_guides-corne_crkbd>
+* <https://github.com/foostan/crkbd/blob/main/docs/corne-light/v2/buildguide_low_edition_en.md>
+* <https://thomasbaart.nl/2018/11/26/corne-keyboard-helidox-build-log/>
 
 I don't plan on trying to compete with these or duplicate them too much.
 
