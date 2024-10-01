@@ -5,8 +5,6 @@ categories:
   - "keyboards"
 ---
 
-_A proper parts list and build guide for the Corne split mechanical keyboard that I use every day._
-
 The Corne is a 42-key split mechanical keyboard. 
 
 The Corne I started with is the RTG model, ordered from [Mechboards](https://mechboards.co.uk/). I have also now built a few from scratch, using whatever the cheapest kit Mechboards sell is. These are what I use now, anywhere that I use a computer for any length of time. 
