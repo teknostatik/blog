@@ -2,9 +2,9 @@
 title: "Updated Ubuntu Installation script"
 date: "2024-10-02"
 categories: 
-  - "computers"
-  - "linux"
-  - "ubuntu"
+  - "Computers"
+  - "Linux"
+  - "Ubuntu"
 ---
 I've made some major changes to [my Ubuntu installation script](https://github.com/teknostatik/deploy_ubuntu/blob/main/deploy_ubuntu.sh) over the last few weeks. Mostly because I finally replaced the hard drive in my laptop and needed to do a clean installation, but also because I wanted to try and get DisplayLink drivers installed by default, which has historically been a pain.
 
