@@ -12,4 +12,4 @@ I've been meaning to try and set up a pipeline that achieves the following:
 * This is then pushes to Wordpress, where a new post is created
 * The Wordpress post is pushed to Mastodon
 
-I think I'm mostly there, but am still debugging. I've had two _mostly_ working solutions, but neither meets all the requirements yet.
+I think I'm mostly there, but am still debugging. I've had two _mostly_ working solutions, but neither is good enough.
