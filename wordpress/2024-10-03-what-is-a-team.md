@@ -56,7 +56,7 @@ Ensuring the skills are more equally distributed helps the team when one of more
 There are a number of internal meetings that we find useful:
 
 * Daily stand up, to ensure that we have a collective understanding of what we are doing each day, and that we can identify anything where we might need help
-* Sprint planning, so that we understand what is being delivered in the next 2 weeks, ahd who is doing what
+* Sprint planning, so that we understand what is being delivered in the next 2 weeks, and who is doing what
 * Retrospectives, to enable us to scrutinise _how_ we work, and suggest improvements that can be fed into the next cycle
 
 We still conduct 121 meetings, but these are less like status update meetings, and more about personal and professional development. Meeting every day to talk about our work doesn't make 121 meetings less important, it just means we can focus them more effectively.
