@@ -1,4 +1,7 @@
-# What is a team?
+---
+title: "What is a team?"
+date: "2024-10-03"
+---
 
 A couple of months ago I gave a series of talks on creating team charters. As part of my preparation for this piece of work I asked myself a number of questions about what a team actually was, and what sorts of questions teams should be asking themselves regularly. Some of this content was used in the talks, but I've tried to make this article more about _teams_ than team _charters_, as I've written and talked about these a lot elsewhere.
 
