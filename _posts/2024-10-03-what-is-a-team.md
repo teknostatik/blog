@@ -11,7 +11,7 @@ A team is a group of people who collaborate to deliver value. Value is anything 
 
 A team doesn't have to all report to the same person, or do the same kind of work, they just need to be able to combine their skills and expertise in a way that delivers something that someone else finds valuable.
 
-## Why does this team exist?
+## Why does the team exist?
 
 Each team should understand why is exists, and be able to articulate that in a short phrase. This should be a mission statement (what you do now), but may also incorporate elements of a vision statement (what you hope to achieve).
 
