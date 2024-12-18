@@ -25,6 +25,6 @@ Over the last two years I have found myself listening to a lot of heavier music,
 * [Absolute Elsewhere](https://bloodincantation.bandcamp.com/album/absolute-elsewhere) by Blood Incantation
 * [Katabasis into the Abaton / Abstieg in die Traumkammer](https://grendelssyster.bandcamp.com/album/katabasis-into-the-abaton-abstieg-in-die-traumkammer) by Grendel's Sister
 * [The Bear Bites Horse Sessions](https://thee-alcoholics.bandcamp.com/album/bear-bites-horse-sessions) by Thee Alcoholics
-* [Rack](https://thejesuslizard.bandcamp.com/album/rack) by The Jesus lizard
+* [Rack](https://thejesuslizard.bandcamp.com/album/rack) by The Jesus Lizard
 
 I am definitely interested in more music in these genres, or anything that sounds a bit like them.
