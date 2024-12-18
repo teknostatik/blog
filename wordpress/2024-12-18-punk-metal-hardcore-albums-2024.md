@@ -15,7 +15,6 @@ Over the last two years I have found myself listening to a lot of heavier music,
 * [Totally Fine](https://theeurosuite.bandcamp.com/album/totally-fine) by The Eurosuite
 * [Condescending](https://hypaethralrecords.bandcamp.com/album/condescending) by Föhn
 * [Lifeless Birth](https://tankcrimes.bandcamp.com/album/lifeless-birth) by Necrot
-* [Tristwch Y Fenywod](https://tristwchyfenywod.bandcamp.com/album/tristwch-y-fenywod) by Tristwch Y Fenywod
 * [Confrere](https://poisonruin.bandcamp.com/album/confrere) by Poison Ruïn
 * [New Town Dream](https://neutrals.bandcamp.com/album/new-town-dream) by Neutrals
 * [Earthworks](https://d4mtlabsinc.bandcamp.com/album/earthworks) by Straw Man Army
