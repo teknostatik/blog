@@ -2,7 +2,7 @@
 title: "Responding to a power cut"
 date: "2024-12-19"
 ---
-We had a short power cut earlier this week, Which was a good test of the power resilience we have configured in the caravan. We are using _some_ kit that requires constant electricity to function, but try and ensure that anyone who is working can continue to work for a few hours in the event of losing electricity.
+We had a short power cut earlier this week, which was a good test of the power resilience we have configured in the caravan. We are using _some_ kit that requires constant electricity to function, but try and ensure that anyone who is working can continue to work for a few hours in the event of losing electricity.
 
 And that's exactly what happened. When our main router lost power, devices seamlessly connected to the secondary one (which has a battery), and the internet continued to work. There was no report of a loss of connection, just of one monitor powering off. We actually got as far as unplugging the monitor to swap it out before we realised that other devices in the van were also without power, and that the monitor was actually fine.
 
