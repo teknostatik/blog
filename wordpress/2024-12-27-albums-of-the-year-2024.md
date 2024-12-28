@@ -1,6 +1,6 @@
 ---
 title: "Albums of the year 2024"
-date: "2024-12-24"
+date: "2024-12-27"
 ---
 
 2024 is a year I will not forget in a hurry, and has definitely seen a change to [the way I buy and consume music](https://andy.teknostatik.co.uk/blog/2024/10/02/how-i-buy-music-in-2024/). It's been less about vinyl, more about CDs, and has also seen a shift to rediscovering old favourites rather than hunting down new music every week. Some of this is likely to do with the fact that a few _very_ old favourites have released great music this year, but maybe it's also just down to the fact that as I get older my musical taste has just settled. There is still a _lot_ of new music here though, and quite a few artists I'd not heard of a year ago as I continue to discover some of the newer punk/hardcore releases that sit nicely beside artists I was listening to decades ago.
