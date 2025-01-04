@@ -209,6 +209,8 @@ Other things I've listened to this year that I enjoyed.
 * [To All Trains](https://shellac.bandcamp.com/album/to-all-trains) by Shellac
 * [Night Palace](https://pwelverumandsun.bandcamp.com/album/night-palace) by Mount Eerie
 * [Manning Fireworks](https://mjlenderman.bandcamp.com/album/manning-fireworks) by MJ Lenderman
+* [Oath](https://monoofjapan.bandcamp.com/album/oath) by MONO
+* [We Could Have Been Radiant](https://goodbyemeteor.bandcamp.com/album/we-could-have-been-radiant) by Goodbye Meteor
 
 ## Something for next year
 
