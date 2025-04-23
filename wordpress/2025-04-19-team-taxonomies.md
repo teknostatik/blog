@@ -3,7 +3,7 @@ title: "Team Taxonomies and Personal Profiles"
 date: "2025-04-19"
 ---
 
-I was reading [this blog post](https://emilywebber.co.uk/team-taxonomies-for-digital-data-and-technology-organisations/) by Emily Webber last week, which nicely compliments the Team Taxonomies book, and is something I think might add some value in my organisation. It puts enabling teams on a more level footing, defines _who_ they enable, and also records whether a team is long-lived or temporary. This would allow organisations to record project teams in the same way as long-lived teams, and might better help highlight people who are in too many teams, as well as teams that don't have a clear purpose.
+I was reading [this blog post](https://emilywebber.co.uk/team-taxonomies-for-digital-data-and-technology-organisations/) by Emily Webber last week, which nicely compliments the _Team Topologies_ book, and is something I think might add some value in my organisation. It puts enabling teams on a more level footing, defines _who_ they enable, and also records whether a team is long-lived or temporary. This would allow organisations to record project teams in the same way as long-lived teams, and might better help highlight people who are in too many teams, as well as teams that don't have a clear purpose.
 
 I think mapping existing operating models in this way would be a good first step towards designing _new_ operating models.
 
