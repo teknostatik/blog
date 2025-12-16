@@ -1,8 +1,3 @@
-----
-title: "Backing up part 1 : Using SSH and rsync"
-date: "2025-11-03"
-----
-
 I'm currently using a Mac as my main computer, but also have a Linux machine that I use for heavy lifting, but also for backups. Setting up SSH key-based authentication allows rsync to work seamlessly without password prompts, making backing up and file synchronisation much more convenient. This is particularly useful for automated scripts and frequent manual transfers. It's what I use to ensure that I have a second copy of every file I download, and to keep my music collection in sync, and helps maintain that illusion that all my computers are actually _one_ computer.
 
 ## Configuration

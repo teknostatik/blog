@@ -1,8 +1,3 @@
-----
-title: "Where I work best"
-date: "2025-08-05"
-----
-
 I have worked in a lot of different offices, and a lot of different _types_ of office, despite having worked for the same organisation for almost 25 years. During that time I've built up a definite set of preferences about what I prefer, and also a strongly held opinion that there isn't a single workspace that fulfils all of my needs.
 
 My needs when I'm focusing on something on my own differ greatly from my needs when I'm collaborating. I think that's probably the same for a lot of people. For deep work I want to be uninterrupted, and to have everything I need at my fingertips so that there are no hand offs required. I also need to control my physical environment more, especially regarding sound. I like to work to music, but I also _really_ dislike wearing headphones for any length of time so it's important that I have a way of playing music externally. I also want to have food and drink nearby so that I don't have to interrupt my flow.

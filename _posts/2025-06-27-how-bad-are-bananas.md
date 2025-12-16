@@ -1,7 +1,3 @@
----
-title: "How Bad Are Bananas?"
-date: "2025-06-27"
----
 I finished reading _How Bad Are Bananas?_ by Mike Berners-Lee this week. I've read bits of the first edition before, but this is my first full reading of the revised edition that takes into account a lot of the recent technological advances. It's good to know that I'm on the right lines with the way I live my life, but there were definitely some learning points.
 
 Most of the emissions from electrical devices come from the way they are made, not from how they are used. So the biggest positive impact we can have is to use devices for as long as possible, and only replace them when they no longer work. This makes devices that can be upgraded/repaired extra valuable, because it means that their lifespan can be prolonged by adding a new hard drive or some memory. The book was talking about trying to keep computers for 10 years, phones for 5, and televisions/monitors for longer.
