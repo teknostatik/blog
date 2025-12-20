@@ -121,8 +121,6 @@ Another musical discovery from last year, delivering a triple album this time (i
 
 ### [You Heartbreaker, You](https://jehnnybeth.bandcamp.com/album/you-heartbreaker-you) by Jehnny Beth
 
->[Second solo album from Jehnny Beth - description to be added]
-
 Talking of concerts, Jhenny Beth played at the last two I went to (the 2020 6 Music festival, and a warm up show the night before). This record builds on her solo debut, and is nothing like her collaboration with Bobby Gillespie (which I also love). I suspect these songs sound amazing live, and she's definitely another artist I would consider going back to concerts for.
 
 ### [Mr. Luck And Ms. Doom](https://thedelines.bandcamp.com/album/mr-luck-and-ms-doom) by The Delines
@@ -138,8 +136,6 @@ I've loved them since their debut, and this latest release doesn't disappoint. I
 This was something I found on one of Bandcamp's lists of new music, and it immediately made me want to check out his other work (which is different, but also great). It's folk music, but also something that sounds like it could be made in any year where it was possible to record music, and a good few years before. I think we need songs like these at the moment.
 
 ### [Twilight Override](https://jefftweedy.bandcamp.com/album/twilight-override) by Jeff Tweedy
-
->30 tracks produced by Jeff Tweedy with Tom Schick. Recorded at The Loft in Chicago. Performed by Jeff Tweedy, Spencer Tweedy, Sammy Tweedy, James Elkington, Sima Cunningham, Macie Stewart and Liam Kazar.
 
 Another triple album, and a collection of songs that stands up to the last few Wilco albums, but also sounds like it was a lot more fun to make. This is what I've been listening to when I just want to experience great songs, sung well.
 

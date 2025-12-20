@@ -1,3 +1,8 @@
+---
+title: "Backing up part 2 : Using Linux as a Time Machine backup destination"
+date: "2025-11-03"
+---
+
 While Time Machine is an excellent backup solution for macOS, external drives aren't always the most convenient option—especially if (like me) you already have a Linux server with plenty of storage. By configuring Samba on your Linux server, you can use it as a network Time Machine destination, allowing automatic wireless backups without needing to plug in an external drive. Here's how I set mine up (I used Ubuntu, but have put in commands for other distros as well).
 
 ## On Linux
