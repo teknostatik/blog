@@ -85,8 +85,6 @@ It's probably my album of the year, of the decade so far, and something I think 
 
 ### [RUN AWAY WITH A WILD AND A RARE ONE](https://wavegenerators.bandcamp.com/album/run-away-with-a-wild-and-a-rare-one) by WAVE GENERATORS
 
->ALL SONGS WRITTEN & PERFORMED by WAVE GENERATORS — WAVE GENERATORS = HEIGHT KEECH & NOSAJ FROM NEW KINGDOM; produced by Height Keech, mixed and mastered by Steel Tipped Dove.
-
 Described as _the Fugazi of hip-hop_, which is a phrase that is always gong to make me listen, as I like both of these things. This record makes me feel how I felt when I heard the first Rage Against The Machine album, and it's a perfect mix of genres that ends up being much more than the sum of its' parts. This is their second album, but both fit easily together on one CD, and this is very much music that _should_ be burned on CD and listened to as a body of work. It won't take long, and it's very much worth it.
 
 ### [Yoo II avec Nolan Potter](https://yoodooright.bandcamp.com/album/yoo-ii-avec-nolan-potter) by Yoo Doo Right, Population II & Nolan Potter
@@ -102,8 +100,6 @@ This is definitely head music. I got into Yoo Doo Right at the end of last year,
 Another album with very few words, and something else that I've spent a lot of time working to. Definitely something that demands being listened to all in one go, and it's short enough to do so.
 
 ### [Touch](https://intlanthem.bandcamp.com/album/touch) by Tortoise
-
->[First new Tortoise music in nine years - description to be added]
 
 The Cardiacs and Stereolab albums were a genuine surprise, but this isn't actually far behind. It's been a while since Tortoise released an album, and even longer since there was one this good (Probably _Standards_ by my reckoning). I'm not sure this will win them many new fans, but it also won't lose them any old ones.
 
