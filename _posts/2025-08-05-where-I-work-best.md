@@ -1,7 +1,7 @@
-----
+---
 title: "Where I work best"
 date: "2025-08-05"
-----
+---
 
 I have worked in a lot of different offices, and a lot of different _types_ of office, despite having worked for the same organisation for almost 25 years. During that time I've built up a definite set of preferences about what I prefer, and also a strongly held opinion that there isn't a single workspace that fulfils all of my needs.
 
