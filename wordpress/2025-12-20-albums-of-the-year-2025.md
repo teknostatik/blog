@@ -1,4 +1,7 @@
-# Albums of the Year 2025
+---
+title: "Albums of the Year 2025"
+date: "2025-12-20"
+---
 
 2025 was another year that saw the return of bands I did not think I would be writing about again. A new Cardiacs album is always something to praise loudly, and this one in particular is one that very few people though would ever see the light of day. But it's here, it's great, and it's what I've listened to more than anything during the second half of this year. I've also bought less vinyl, and less new music in general, but as a result have rediscovered a lot of older things by people on this list and other adjacent artists. 
 
