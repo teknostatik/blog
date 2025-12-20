@@ -193,3 +193,4 @@ Another album that celebrates the simple art of songwriting. I will definitely e
 * [Saisir Le Feu](https://shrapknel.bandcamp.com/album/saisir-le-feu) by Shrapknel
 * [Armature](https://shrapknel.bandcamp.com/album/armature) by Shrapknel
 * [Orcutt Shelley Miller](https://orcuttshelleymiller.bandcamp.com/album/orcutt-shelley-miller) by Orcutt Shelley Miller
+* [The Foel Tower](https://quadebanduk.bandcamp.com/album/the-foel-tower) by Quade
