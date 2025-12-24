@@ -1,0 +1,9 @@
+---
+title: "Self Publishing"
+date: "2025-12-24"
+---
+It strikes me this morning that it's now possible to self-publish almost anything, and that the tools to do so are getting easier to use every day. Creating ebooks is trivial using [Pandoc](https://pandoc.org/epub.html), and they can be sold (or given away for free) on Amazon. Distributing music on Bandcamp is equally straightforward, with the ability to collect revenue via Paypal, and also set up a subscription, which is very basic crowd funding. Wordpress has always been great for self-publishing writing, but now we also have things like Github Pages, where a whole source-controlled website can be hosted for free. I suspect if this technology had existed 20 years ago then I'd never have started using Wordpress in the first place.
+
+It's 20 years since my oldest blog post was written, but not _quite_ 20 years since I built the blog itself. In that time it's moved from a box under my desk to a couple of different hosting providers, and it's been a very interesting experiment to track certain aspects of my life over that time. I'm now also mirroring the whole thing on a Github Pages site, partly for resilience, but also as an interesting experiment to see if I can automate my content publishing pipeline with more than one end-point. 
+
+All of this would be _possible_ with true self-hosting, but it would be a lot of work that I don't have time for right now, and increased responsibility for security in a world where there are more threats that ever. I think the balance between having control over my content and having a straightforward way to publish it is right for me at the moment, but it's good to be developing the skills to do it a different way if required at a later date.
