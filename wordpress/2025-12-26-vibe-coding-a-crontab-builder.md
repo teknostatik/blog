@@ -1,5 +1,5 @@
 ---
-title: "Vibe-coding a Crontab Builder"
+title: "Vibe Coding a Crontab Builder"
 date: "2025-12-26"
 ---
 I made a few tweaks to my [crontab builder](https://teknostatik.github.io/misc/cron-expression-builder.html) yesterday. It's one of a few vibe-coded applications I created just to see what's possible, and it's something that actually works quite well for someone who doesn't use cron often, so needs to read the manual every time. This is exactly where generative AI is really useful; creating simple web applications that help people use their computer more effectively. 
