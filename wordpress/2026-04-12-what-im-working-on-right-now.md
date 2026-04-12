@@ -1,0 +1,15 @@
+---
+title: "What I'm working on right now"
+date: "2026-04-12"
+---
+The last few months have been very productive, both in my professional life and the things I do outside of work. I thought it was worth summarising the things I've been doing, and therefore the things I'm interested in talking or writing about at some point:
+
+* There has been a big focus on AI, both personally and professionally. I have learnt to use all sorts of different AI tools; from setting up a LM Studio server at home, to using AI to analyse and visualise all sorts of things at work. I did a talk on this in December 2025, where I summarised the work so far, and also explored the cost of doing these kind of experiments; both the monetary cost and the cost to the planet. I am also reading a _lot_ of books on AI, which deserve their own blog post at some point soon.
+* The next big piece of work in this area is around documentation standards, so that everything my team writes is equally accessible to people and AIs. The answer to this is basically to master everything in Markdown and then publish to wherever the content needs to be. I've been writing in Markdown for over a decade, and this blog already adheres closely to these principles, so I do at least have a starting point.
+* Last year I spent time setting up my organisation's Agile Community of Practice, and this year I've been doing more work in this space, as well as thinking about how these communities can play a part in providing tier zero support to users. I'm doing a talk about this in July.
+* I've been moving _some_ of my workflow over to macOS, and as a result have been working on ways to make all my computers have the same key software, with the ability to install additional things based on what they will be used for. [My Mac setup script](https://github.com/teknostatik/mac/blob/main/setup) is available for anyone to use, but it's mainly geared around my own requirements. 
+* The new version of ITIL has been a big thing professionally this year, and I've been spending time thinking ang writing about this, and also about the ever-narrowing gap between ITIL and Agile, which to me are two slightly different ways of describing what is largely the same thing.
+* I'm always interested in how I can improve myself, and create the best environment for my team to work in. This will always be a focus for me, but more recently I've also been trying to help other teams implement some of the things my team have found useful. I've been speaking and writing about my organisation's performance and development reviews over the last few months, and am in the middle of going through the review process with my team, which always spawns new pieces of work, and new ways of thinking about the work we already do.
+* I've been learning more about neurodiversity, both to better understand how my own brain works, but also to be able to better support colleagues and family members who are also on this journey.
+
+Writing it out like that makes me realise that this is a _lot_, and that it only really scratches the surface of my areas of interest right now.
