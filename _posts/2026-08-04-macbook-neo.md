@@ -1,11 +1,32 @@
 ---
-title: "What I'm working on right now"
-date: "2026-06-25"
+title: "First thoughts on the MacBook Neo"
+date: "2026-08-04"
 ---
-A few months ago I blogged about what I was working on, both in my professional life and the things I do outside of work. This is where I'm at in June 2026:
+I've been using a MacBook Neo for casual computing for a few weeks now, so thought I'd write a few notes about how I'm finding it and what I'm using it for.
 
-* I'm about to do a talk about Communities of Practice at UCISA's SSG26 conference. This will involve travelling from the Isle of Wight to Leeds during the tail-end of a heatwave, so will be an adventure within an adventure.
-* Once that's done, I'll be putting the final touches to [a talk](https://www.itsmf.co.uk/event/ai_in_he/) for itSMF about using AI to move some of our Service Management practices from decision-by-opinion to a more data-driven solution. I'll also talk about some of my early experiments with using AI to build tools to measure all sorts of things.
-* I've been learning more about neurodiversity; more formally now, along with many other colleagues from the University of Birmingham. We're using [National Neurodiversity Training](https://www.nnt.training/) as a provider, and I would definitely recommend them.
-* I've been thinking a lot about operating models and team topologies and taxonomies. I'm fascinated by the structures that organisations choose, but also the change journey they take to reach their final (or latest) form. I'm working on a simulation exercise that explores some of these concepts, as well as how to be in a team with people who do a different job to you, or at least have different core skills.
-* I'm trying to commute sustainably where possible; generally a combination of my Brompton for short trips, supplemented by trains. It's been good to get back on a bike after a short period away, although the current heatwave has made me very glad I don't have to commute right now as I'm in the middle of a short holiday.
+This machine is really a joy to type on and to carry round, and it's exactly what an entry level computer should be like. It feels a _lot_ faster than the specs suggest, and I think if this had existed a year ago then I would have bought one above the MacBook Air.
+
+There are compromises, but that's ok because I have other computers for running AI models, doing serious work, and that sort of thing. This is for those times when I wouldn't use another computers, like sitting in the garden typing my journal. I think this is something I would throw in my bag _most_ times I travel, and I think the smaller size would make particular sense when travelling by train. I find the MacBook Air is _just_ too big to comfortably use on those pull-down tables on trains, but I think the slightly smaller size of the Neo might work perfectly.
+
+As far as GeekBench scores go, the surprise to me is that the MacBook Neo does better than all my non-Macs on single _and_ multi-core processor tests. That's insane for something that is basically a phone CPU in a laptop. It narrowly beats my AI PC, and destroys everything else. this validates my choice that it's a good replacement for the ThinkPad that I used to throw in my bag for connecting to other computers or just using around the house or outside. I don't think that machine has actually been switched on since I got the Neo, and I've done a _lot_ of outside computing because I've been spending the first hour of the day outside before starting work as the weather has been so warm.
+
+The GeekBench scores were:
+
+* Single core - 2943 	
+* Multi core - 6983
+* GPU - 30341 
+
+My other computers are recorded in [GeekBench browser](https://browser.geekbench.com/user/584086) for comparison.
+
+Things I've been doing on the Neo are:
+
+* Writing my journal
+* Some light development work on shell scripts and simple HTML pages
+* Administering all my other computers via SSH and Apple Remote Desktop
+* General web browsing and life admin
+* Watching YouTube
+* Connecting it to a docking station and testing it out with my usual keyboard, trackball and screen
+
+In other words I've done a fair few of the things that normal people use computers for. I think this computer isn't designed for people like me, but I love it anyway and would recommend it to almost anyone who doesn't game, keeps their number of open tabs to a sensible level, and who doesn't need to do anything with their computer that they couldn't do on a recent-generation mobile phone.
+
+Only time will tell how much use this gets, or it it means my Air will get _less_ use, but right now it's nice to have another option, and one that I hope will form a big part of my mobile computing experience over the next few years.
